@@ -170,6 +170,7 @@ body {
 .skills__text {
     color: var(--secondary-text-color);
     text-align: justify;
+    font-style: italic;
 }
 
 /*------------------------------------Experience and additional info styles------------------------------------*/
@@ -268,7 +269,21 @@ body {
     color: var(--secondary-text-color);
 }
 
+/*-------------------------------------------------my styles-------------------------------------------------*/
 
+.contact-info__a_my_cv{
+    text-decoration: none;
+    color: var(--secondary-text-color);
+    text-transform: uppercase;
+    font-weight: 900;
+    transition: 1s;
+}
+
+.contact-info__a_my_cv:hover {
+    color: darkblue;
+    text-decoration: underline;
+    font-size: 1.3rem;
+}
 
 
 
