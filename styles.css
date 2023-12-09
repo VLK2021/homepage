@@ -168,7 +168,7 @@ body {
 }
 
 .skills__text {
-    color: var(--secondary-text-color);
+    color: red;
     text-align: justify;
     font-style: italic;
 }
@@ -283,6 +283,22 @@ body {
     color: darkblue;
     text-decoration: underline;
     font-size: 1.3rem;
+}
+
+@keyframes rotateAnimation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.twist {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    animation: rotateAnimation 4s linear infinite; /* 4s - тривалість анімації, linear - тип таймінгу, infinite - нескінченна анімація */
 }
 
 
