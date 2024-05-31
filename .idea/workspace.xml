@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bce2f24f-eb11-4566-a17f-37f3d396ffe0" name="Changes" comment="">
+    <list default="true" id="bce2f24f-eb11-4566-a17f-37f3d396ffe0" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/styles.css" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2ZGdMHGQnRK3RhIlYQ9YXEfuAh4" />
   <component name="ProjectLevelVcsManager">
@@ -46,7 +49,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0cd4b12f-2b71-4cef-a133-9719fee54750" name="Changes" comment="" />
+      <changelist id="bce2f24f-eb11-4566-a17f-37f3d396ffe0" name="Changes" comment="" />
       <created>1702052301115</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -54,6 +57,7 @@
       <workItem from="1702052303797" duration="1699000" />
       <workItem from="1702065240106" duration="933000" />
       <workItem from="1702066189091" duration="1194000" />
+      <workItem from="1717134786968" duration="1099000" />
     </task>
     <task id="LOCAL-00001" summary="This reverts commit 8f2559b3d428a7ce16fd518b9d88df0429c4d1aa.">
       <created>1702053338101</created>
@@ -76,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702066257728</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1702170915077</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702170915077</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
