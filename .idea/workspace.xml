@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bce2f24f-eb11-4566-a17f-37f3d396ffe0" name="Changes" comment="commit">
+    <list default="true" id="bce2f24f-eb11-4566-a17f-37f3d396ffe0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,7 @@
       <workItem from="1702065240106" duration="933000" />
       <workItem from="1702066189091" duration="1194000" />
       <workItem from="1717134786968" duration="1099000" />
+      <workItem from="1717139073454" duration="1325000" />
     </task>
     <task id="LOCAL-00001" summary="This reverts commit 8f2559b3d428a7ce16fd518b9d88df0429c4d1aa.">
       <created>1702053338101</created>
@@ -87,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702170915077</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <created>1717139089825</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717139089825</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
